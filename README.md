@@ -1,4 +1,4 @@
-# john.eze-daily-reports
+# My Daily Report on Python Course
 
 ## Day 00
 
